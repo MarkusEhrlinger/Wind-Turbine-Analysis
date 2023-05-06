@@ -23,7 +23,8 @@ analysis of a wind turbine. I found this dataaset on Kaggle, this is NOT from an
 \
 My scope is on main bearing temperature, generator temperature and power production\
 \
-Here I'd like to describe the process of this analysis.
+Here I'd like to describe the process of this analysis.\
+And I use this here as a log, so I know where I left the last time.
 
 -----------------------------------------------------------------------------------
 
