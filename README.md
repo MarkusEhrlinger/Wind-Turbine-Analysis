@@ -25,7 +25,7 @@ I'm  a technician for wind turbines and just finished my Google Data Analytics C
 As I want to enter the field of data analytics, I thougt, this might be a good idea to do an
 analysis of a wind turbine. I found this dataaset on Kaggle, this is NOT from any of my employer's turbines.\
 \
-My scope is on main bearing temperature, generator temperature and power production\
+My focus is on main bearing temperature, generator temperature and power production\
 \
 Here I'd like to describe the process of this analysis.\
 And I use this here as a log, so I know where I left the last time.
