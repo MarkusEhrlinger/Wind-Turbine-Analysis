@@ -51,7 +51,7 @@ While filtering, I found some other unreasonable temperatures.
 
 After removing the empty cells and the 99999 cells from the bearing temperature as well, 148.847 rows left.
 
-I repeated the steps for the other columns, try to automate it.
+I repeated the steps for the other columns. Only 10.689 rows left. I'm rethinking this. Maybe just clean the rows needed.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
