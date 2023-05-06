@@ -39,10 +39,11 @@ First thing I did, was to use the statistics tool for descriptive statistics to 
 
 ![image](https://user-images.githubusercontent.com/132265260/236620504-1e0a917a-2f2c-457f-96bf-bbb94758dce1.png)
 
-Min and Max are -273 and 99999. Tis is the same for other temperature variables.
-Power outage, shortcurcits or open wires can cause this issiues.\
+Min and Max are -273 and 99999. This is the same for other temperature variables.
+Power outages, shortcurcits or open wires can cause this issiues.\
 
-Set a filter and recheck.
+Set a filter, remove the rows and recheck.
+
 
 
 
