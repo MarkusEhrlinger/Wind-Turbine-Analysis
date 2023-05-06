@@ -42,7 +42,24 @@ First thing I did, was to use the statistics tool for descriptive statistics to 
 Min and Max are -273 and 99999. This is the same for other temperature variables.
 Power outages, shortcurcits or open wires can cause this issiues.\
 
-Set a filter, remove the rows and recheck.
+Set a filter, remove the unreasonable rows and recheck.\
+My main focus is on the bearing temperature, as I found out, on other columns the 99999, was 1300 rows. So I thought it's better to just focus on the columns I want to use later.
+The filter for -273 was as expected, in several temperature columns at the same time, overall 26 rows have been removed.\
+While filtering, I found some other unreasonable temperatures.
+
+![image](https://user-images.githubusercontent.com/132265260/236621698-04bb25a7-0124-4fa8-8d1a-f5def164a89f.png)
+
+After removing the empty cells for the bearing temperature as well, 150.087 rows left.
+
+
+
+
+
+
+ 
+
+
+
 
 
 
