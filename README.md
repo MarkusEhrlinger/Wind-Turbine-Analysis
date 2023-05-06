@@ -5,17 +5,21 @@ My ongoing project of a wind turbine SCADA data.
 #Data:
 
 From https://www.kaggle.com/datasets/psycon/wind-turbine-energy-kw-generation-data
+
 Many thanks for publishing it to: Batucan Senkal - https://www.kaggle.com/psycon
 
-I start with the "features.csv"
-This set has:
-Rows: 154.262
-Columns: 77
+License: CC BY-NC-SA 4.0\
+Provenance: This dataset collected from open sources.
+
+I start with the "features.csv"\
+This table has:\
+Rows: 154.262\
+Columns: 77\
 Size: 146,3 MiB
 
 ---------------------------------------------------------------------------------
 
-#Scenario:
+#About:
 
 I'm  a technician for wind turbines and just finished my Google Data Analytics Course.\
 As I want to enter the field of data analytics, I thougt, this might be a good idea to do an
