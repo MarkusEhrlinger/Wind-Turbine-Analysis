@@ -51,6 +51,10 @@ While filtering, I found some other unreasonable temperatures.
 
 After removing the empty cells for the bearing temperature as well, 150.087 rows left.
 
+---------------------------------------------------------------------------------------------------------------------------
+
+#Analyzing/Visualizing:
+
 
 
 
