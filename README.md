@@ -49,7 +49,9 @@ While filtering, I found some other unreasonable temperatures.
 
 ![image](https://user-images.githubusercontent.com/132265260/236621698-04bb25a7-0124-4fa8-8d1a-f5def164a89f.png)
 
-After removing the empty cells for the bearing temperature as well, 150.087 rows left.
+After removing the empty cells and the 99999 cells from the bearing temperature as well, 148.847 rows left.
+
+I repeated the steps for the other columns, try to automate it.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
