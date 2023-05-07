@@ -56,11 +56,24 @@ While filtering, I found some other unreasonable temperatures.
 
 After removing the empty cells and the 99999 cells from the bearing temperature as well, 148.847 rows left.
 
-I repeated the steps for the other columns. Only 10.689 rows left. I'm rethinking this. Maybe just clean the rows needed.
+I repeated the steps for the other columns. Only 10.689 rows left. I'm rethinking this. Maybe just clean the columns needed.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 #Analyzing/Visualizing:
+
+Although, I cleaned a lot, which might not be suitable for a proper, in depth visualization and/or analysis, I used the descriptive statistics function to take a closer look at the single columns to look if something is catching my attention.\
+
+I can see, max temperature on the bearing is 72°C, in my experience this seems to be a little hot, but I don't know the turbine type or have any data on this, so I will take a closer look to see the temperature change over the years.
+
+![image](https://user-images.githubusercontent.com/132265260/236666996-33fa860a-9d82-485c-ad93-e2927479e4da.png)
+
+
+So, I go back to the raw data set, filter only this column and create a graph to get a better understanding.\
+Maybe I will do this in R, not sure if Calc and my laptop can handle this.
+
+
+
 
 
 
