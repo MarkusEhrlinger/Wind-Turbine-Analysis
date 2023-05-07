@@ -72,6 +72,14 @@ I can see, max temperature on the bearing is 72°C, in my experience this seems 
 So, I go back to the raw data set, filter only this column and create a graph to get a better understanding.\
 Maybe I will do this in R, not sure if Calc and my laptop can handle this.
 
+-----------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/132265260/236668240-fd108263-5383-4996-8c61-f99aaa16a8dc.png)
+
+It looks like, the 72°C isn't too unusual, seems to be a yearly trend.
+
+
+
 
 
 
