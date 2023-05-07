@@ -78,7 +78,18 @@ Maybe I will do this in R, not sure if Calc and my laptop can handle this.
 
 It looks like, the 72°C isn't too unusual, seems to be a yearly trend.
 
+I continue with R, as it's easier to adjust the visualization to gain some more insight.
 
+```R
+X2023_05_04_SCADA_Analysis_workcopy <- read_csv("~/Downloads/Projects/Wind_Turbine_SCADA/2023-05-04_SCADA-Analysis_workcopy.csv")
+
+ggplot(data = X2023_05_04_SCADA_Analysis_workcopy) +
+    geom_point(mapping = aes(x = Timestamp, y = Temperature_Bearing_A))
+```
+
+![image](https://user-images.githubusercontent.com/132265260/236673125-228cd6d2-18d0-464d-8057-bef1936c826f.png)
+
+Some more adjusting in R needed.
 
 
 
