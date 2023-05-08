@@ -89,8 +89,20 @@ ggplot(data = X2023_05_04_SCADA_Analysis_workcopy) +
 
 ![image](https://user-images.githubusercontent.com/132265260/236673125-228cd6d2-18d0-464d-8057-bef1936c826f.png)
 
-Some more adjusting in R needed.
+```R
+# per year
+ggplot(data = X2023_05_04_SCADA_Analysis_workcopy) +
+  geom_point(mapping = aes(x = Timestamp, y = Temperature_Bearing_A)) +
+  facet_wrap(~year(Timestamp))
 
+#per year colored
+ggplot(data = X2023_05_04_SCADA_Analysis_workcopy) +
+  geom_point(mapping = aes(x = Timestamp, y = Temperature_Bearing_A, color = year(Timestamp))) +
+  facet_wrap(~year(Timestamp))
+```
+![image](https://user-images.githubusercontent.com/132265260/236891434-887331a3-e085-405e-925c-a7307f0fb10f.png)
+
+Need to work with the aestetics, smaller dots and maybe filter, so each plot has only one year
 
 
 
