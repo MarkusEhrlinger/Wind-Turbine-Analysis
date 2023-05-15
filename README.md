@@ -104,6 +104,29 @@ ggplot(data = X2023_05_04_SCADA_Analysis_workcopy) +
 
 Need to work with the aestetics, smaller dots and maybe filter, so each plot has only one year
 
+I made smaler dots and made the x-axis for one year only.
+
+```R
+startTime <- as_datetime("2019-01-01 00:00:00")
+endTime <- as_datetime("2020-01-01 00:00:00")
+start.end <- c(startTime, endTime)
+start.end
+
+X2023_05_04_SCADA_Analysis_workcopy %>% 
+  
+  ggplot() +
+  geom_point(aes(x = Timestamp, y = Temperature_Bearing_A, color = year(Timestamp)), size = 0.1) +
+  (scale_x_datetime(limits = start.end))
+
+```
+
+![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/4141d2b7-70a4-43ca-a5b4-cce311dfa6d3)
+
+Next, all three years beneath each other.
+
+
+
+
 
 
 
