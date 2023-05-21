@@ -1,5 +1,5 @@
 # Wind-Turbine-Analysis
-My ongoing project of a wind turbine SCADA data.
+My project of a wind turbine SCADA data.
 ------------------------------------------------
 
 #Data:
@@ -25,16 +25,15 @@ I'm  a technician for wind turbines and just finished my Google Data Analytics C
 As I want to enter the field of data analytics, I thougt, this might be a good idea to do an
 analysis of a wind turbine. I found this dataaset on Kaggle, this is NOT from any of my employer's turbines.\
 \
-My focus is on main bearing temperature and power production\
+My focus is on main bearing temperature. 
 \
 Here I'd like to describe the process of this analysis.\
-And I use this here as a log, so I know where I left the last time.
 
 -----------------------------------------------------------------------------------
 
 #Tools:
 
-I'm using Libre Office Calc (spreadsheets)
+I'm using Libre Office Calc (spreadsheets) and R-Studio.
 
 -----------------------------------------------------------------------------------
 
@@ -131,9 +130,6 @@ The single plots, each year in a row.
 Now I can see easier the different years, it looks like, there is nothing remarkable, the rise in temperature can be explained by the season, outside temperature.
 
 ---------------------------------------------------------------------------------------------------------
-
-Next: Power production.
-
 
 
 
