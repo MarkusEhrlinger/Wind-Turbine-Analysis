@@ -25,7 +25,7 @@ I'm  a technician for wind turbines and just finished my Google Data Analytics C
 As I want to enter the field of data analytics, I thougt, this might be a good idea to do an
 analysis of a wind turbine. I found this dataaset on Kaggle, this is NOT from any of my employer's turbines.\
 \
-My focus is on main bearing temperature, generator temperature and power production\
+My focus is on main bearing temperature and power production\
 \
 Here I'd like to describe the process of this analysis.\
 And I use this here as a log, so I know where I left the last time.
@@ -122,8 +122,16 @@ X2023_05_04_SCADA_Analysis_workcopy %>%
 
 ![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/4141d2b7-70a4-43ca-a5b4-cce311dfa6d3)
 
-Next, all three years beneath each other.
 
+The single plots, each year in a row.
+
+![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/37017bca-7729-4ee5-b66e-2f0f02a88e5e)
+
+Now I can see easier the different years, it looks like, there is nothing remarkable, the rise in temperature can be explained by the season, outside temperature.
+
+---------------------------------------------------------------------------------------------------------
+
+Next: Power production.
 
 
 
