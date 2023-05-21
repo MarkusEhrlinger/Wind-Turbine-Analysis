@@ -125,7 +125,8 @@ X2023_05_04_SCADA_Analysis_workcopy %>%
 
 The single plots, each year in a row.
 
-![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/37017bca-7729-4ee5-b66e-2f0f02a88e5e)
+![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/506a00bd-2392-45d9-8e30-14aff01d26d2)
+
 
 Now I can see easier the different years, it looks like, there is nothing remarkable, the rise in temperature can be explained by the season, outside temperature.
 
