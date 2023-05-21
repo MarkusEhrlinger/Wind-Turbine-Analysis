@@ -127,9 +127,13 @@ The single plots, each year in a row.
 ![image](https://github.com/MarkusEhrlinger/Wind-Turbine-Analysis/assets/132265260/506a00bd-2392-45d9-8e30-14aff01d26d2)
 
 
-Now I can see easier the different years, it looks like, there is nothing remarkable, the rise in temperature can be explained by the season, outside temperature.
+Now I can see easier the different years, the rise in temperature can be explained by the season, outside temperature.
+But a closer look to the year 2021 shows, temperatures seem to be a bit higher in the colder months Jan - April  and Oct - Dec as compared to 2019.
+Data for 2022 would be needed to see if there's a trend. For now my suggestion would be, to increase the grease cycle for a while or flush the bearing with some extra grease to make sure, the bearing has enough grease. Results should be visible quickly afterwards and if there's a trend or temperature stays at this level, a bearing inspection should be performed, to ensure the bearing isn't already damaged.
 
 ---------------------------------------------------------------------------------------------------------
+
+Analysis like this are performed by some AI, which can constantly survey all of the temperatures. For me this was to train my newly learned skills, use some spreadsheet, do some plots in R. 
 
 
 
